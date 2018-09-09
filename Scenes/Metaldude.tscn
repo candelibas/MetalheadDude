@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Assets/Sprites/l0_sprite_1.png" type="Texture" id=1]
+[ext_resource path="res://Scripts/Metaldude.gd" type="Script" id=2]
+
+[node name="Metaldude" type="Sprite"]
+
+position = Vector2( 388.331, 421.787 )
+scale = Vector2( 4.03536, 4.78109 )
+texture = ExtResource( 1 )
+script = ExtResource( 2 )
+_sections_unfolded = [ "Pause", "Transform", "Z Index" ]
+
+

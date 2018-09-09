@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/napalmdeath.ogg-2bd3dbf63977966b40d23a7c7338b3c7.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/napalmdeath.ogg"
+dest_files=[ "res://.import/napalmdeath.ogg-2bd3dbf63977966b40d23a7c7338b3c7.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
